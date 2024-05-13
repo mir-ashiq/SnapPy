@@ -1,4 +1,4 @@
-**# SnapPy: Automate Sending Snaps on Snapchat (Python)**
+# SnapPy: Automate Sending Snaps on Snapchat (Python)**
 
 **Tired of manually sending Snaps? SnapPy automates the process using Selenium and Python, freeing up your time for more important things.**
 
@@ -18,7 +18,7 @@ This script is for educational purposes only. Please use it responsibly and adhe
 2. **Install Dependencies:** Open your terminal or command prompt and navigate to the directory where you cloned or downloaded the SnapPy repository. Then, run the following command:
 
    ```bash
-   pip install selenium webdriver-manager
+   pip install selenium webdriver-manager pickle
    ```
 
 **Usage:**
